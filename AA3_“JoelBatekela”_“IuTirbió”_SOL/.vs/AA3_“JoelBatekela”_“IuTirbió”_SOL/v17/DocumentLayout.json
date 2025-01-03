@@ -1,26 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\",
+  "WorkspaceRootPath": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|solutionrelative:AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|solutionrelative:AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|solutionrelative:AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|solutionrelative:AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|solutionrelative:AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|solutionrelative:AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|solutionrelative:AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|solutionrelative:AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|solutionrelative:AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Chest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|solutionrelative:AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Chest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\MapPostion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|solutionrelative:AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\MapPostion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42CEF055-E336-42CA-8C3F-E31B482F9B78}|AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT.vcxproj|solutionrelative:AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Enemy.cpp",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.cpp",
-              "RelativeDocumentMoniker": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.cpp",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.cpp",
-              "RelativeToolTip": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-18T23:05:48.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Enemy.h",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.h",
-              "RelativeDocumentMoniker": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.h",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.h",
-              "RelativeToolTip": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-18T23:05:35.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.h",
-              "RelativeDocumentMoniker": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.h",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.h",
-              "RelativeToolTip": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-18T23:02:38.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.cpp",
+              "DocumentMoniker": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.cpp",
               "RelativeDocumentMoniker": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.cpp",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.cpp",
+              "ToolTip": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.cpp",
               "RelativeToolTip": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-18T23:02:12.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.h",
+              "RelativeDocumentMoniker": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.h",
+              "ToolTip": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.h",
+              "RelativeToolTip": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-18T23:05:35.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.cpp",
+              "RelativeDocumentMoniker": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.cpp",
+              "ToolTip": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.cpp",
+              "RelativeToolTip": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T23:05:48.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Map.h",
+              "DocumentMoniker": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Map.h",
+              "RelativeDocumentMoniker": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Map.h",
+              "ToolTip": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Map.h",
+              "RelativeToolTip": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Map.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T10:03:55.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.h",
+              "RelativeDocumentMoniker": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.h",
+              "ToolTip": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.h",
+              "RelativeToolTip": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Player.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-18T23:02:38.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Main.cpp",
-              "RelativeDocumentMoniker": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Main.cpp",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Main.cpp",
-              "RelativeToolTip": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "Map.cpp",
+              "DocumentMoniker": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Map.cpp",
+              "RelativeDocumentMoniker": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Map.cpp",
+              "ToolTip": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Map.cpp",
+              "RelativeToolTip": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Map.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T10:07:21.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapPostion.h",
+              "DocumentMoniker": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\MapPostion.h",
+              "RelativeDocumentMoniker": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\MapPostion.h",
+              "ToolTip": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\MapPostion.h",
+              "RelativeToolTip": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\MapPostion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T10:04:13.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\main.cpp",
+              "RelativeDocumentMoniker": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\main.cpp",
+              "ToolTip": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\main.cpp",
+              "RelativeToolTip": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-18T23:00:05.991Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chest.h",
+              "DocumentMoniker": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Chest.h",
+              "RelativeDocumentMoniker": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Chest.h",
+              "ToolTip": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Chest.h",
+              "RelativeToolTip": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Chest.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T10:36:35.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Potion.h",
+              "DocumentMoniker": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Potion.h",
+              "RelativeDocumentMoniker": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Potion.h",
+              "ToolTip": "C:\\Users\\iutir\\Desktop\\AA3_RPG\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_SOL\\AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Potion.h",
+              "RelativeToolTip": "AA3_\u201CJoelBatekela\u201D_\u201CIuTirbi\u00F3\u201D_PROJECT\\Potion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T10:10:26.529Z"
             }
           ]
         }
