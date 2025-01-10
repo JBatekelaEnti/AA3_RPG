@@ -1,4 +1,7 @@
-﻿  Map.cpp
+﻿  Enemy.cpp
   main.cpp
+  Map.cpp
+  Player.cpp
   Generating Code...
-  AA3_“JoelBatekela”_“IuTirbió”_PROJECT.vcxproj -> C:\Users\iutir\Desktop\AA3_RPG\AA3_“JoelBatekela”_“IuTirbió”_SOL\x64\Debug\AA3_“JoelBatekela”_“IuTirbió”_PROJECT.exe
+C:\Users\Usuario\source\repos\AA3_RPG\AA3_“JoelBatekela”_“IuTirbió”_SOL\AA3_“JoelBatekela”_“IuTirbió”_PROJECT\Player.cpp(5,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AA3_“JoelBatekela”_“IuTirbió”_PROJECT.vcxproj -> C:\Users\Usuario\source\repos\AA3_RPG\AA3_“JoelBatekela”_“IuTirbió”_SOL\x64\Debug\AA3_“JoelBatekela”_“IuTirbió”_PROJECT.exe

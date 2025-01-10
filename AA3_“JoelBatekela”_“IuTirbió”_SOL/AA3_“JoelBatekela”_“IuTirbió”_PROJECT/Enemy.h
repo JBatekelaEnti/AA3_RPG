@@ -1,5 +1,5 @@
 #pragma once
-#include "MapPostion.h"
+#include "MapPosition.h"
 struct Enemy {
     int health;
     int maxHealth;

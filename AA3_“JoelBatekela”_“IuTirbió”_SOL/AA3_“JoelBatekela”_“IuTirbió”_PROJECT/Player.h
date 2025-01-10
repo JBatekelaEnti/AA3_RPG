@@ -1,6 +1,6 @@
 #pragma once
 #include <ctime>
-#include "MapPostion.h"
+#include "MapPosition.h"
 #include "Potion.h"
 #include "vector"
 #include "cstdlib"

@@ -38,7 +38,7 @@
     <ClInclude Include="Map.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MapPostion.h">
+    <ClInclude Include="MapPosition.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Potion.h">
